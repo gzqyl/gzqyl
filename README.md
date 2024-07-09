@@ -1,7 +1,8 @@
-- 👋 Hi, I’m looking for a React Native remote job
-- 🌱 will work in full time 40 hours per week
-- 💞️ I’m experienced in RN for about 3 years, could write kotlin , swift, OC when it requires.
-- 📫 If there's a job waiting for me, kindly write to me by email: allen.gzqyl@gmail.com
+- 👋 Hi, welcome to visit the website: [https://www.soulyin.com](https://www.soulyin.com)
+- 🌱 There're many iOS Apps waiting for you.
+- 💞️ For RN AI based App, Tob, you could get it from Google Play Store also, [Tob - Simple Tool Boxes](https://play.google.com/store/apps/details?id=com.soulyin.tob)
+- 📫 Apple Store [Tob - Simple Tool Boxes](https://apps.apple.com/us/app/tob-simple-tool-boxes/id6476127838)
+- If u have any ideas, kindly let me know, the next updates maybe from you!
 
 <!---
 gzqyl/gzqyl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
